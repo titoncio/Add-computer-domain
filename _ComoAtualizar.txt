@@ -1,0 +1,13 @@
+﻿Gerar relatório do ADInfo
+	Aba Containers & OUs
+	Apenas no container: OU=Unidades,DC=example,DC=com
+	All Containers
+	Opções: General.Name, General.ParentContainer(Reversed), System.DistinguishedName
+	Salvar como listaLocalidades.csv
+
+Remover duplicados no arquivo CSV (Pesquisar por "CNF:" no arquivo e remover a linha inteira)
+
+Acessar .\Domain\Domain e substituir o arquivo listaLocalidades.csv
+
+Compilar usando o código:
+	dotnet build -o %local%

@@ -1,0 +1,4 @@
+﻿"Name","Distinguished Name","Parent Container (Reversed)"
+"Duplicados","OU=Duplicados,OU=Users,DC=example,DC=com","example.com\Unidades\Sao Paulo\Hospitais\Users"
+"Laboratorio","OU=Laboratorio,OU=1_Andar,OU=Computers,DC=example,DC=com","example.com\Unidades\Sao Paulo\Centros Clinicos\Belem\Computers\1_Andar"
+"Printers","OU=Printers,OU=Belem,OU=Centros Clinicos,DC=example,DC=com","example.com\Unidades\Sao Paulo\Centros Clinicos\Belem"
